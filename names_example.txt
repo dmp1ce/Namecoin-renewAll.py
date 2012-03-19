@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "d/!",
+        "value" : "webpagedeveloper.me/namecoin",
+        "expires_in" : 1227
+    },
+    {
+        "name" : "d/#",
+        "value" : "webpagedeveloper.me/namecoin",
+        "expires_in" : 1227
+    }
+]
